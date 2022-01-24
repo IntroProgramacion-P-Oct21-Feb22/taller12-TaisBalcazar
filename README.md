@@ -23,6 +23,7 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
+Al ejecutar el programar, en pantalla sale 17, debido a que todos los valores del arreglo van siendo sumados
 
 #### Fin respuesta
 
